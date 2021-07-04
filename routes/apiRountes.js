@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const Input = requrie('../db/functions.js');
+const Input = require('../db/functions.js');
 
 
 //get route

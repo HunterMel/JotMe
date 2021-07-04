@@ -1,8 +1,8 @@
 
 //fs module provides utilities for working w/ file and directory paths
 const express = require('express');
-const htmlRoutes = require('./routes/htmlRoutes.js')
-const apiRoutes = require('./routes/apiRoutes.js')
+const htmlRoutes = require('./routes/html.js')
+const apiRoutes = require('./routes/apiRountes.js')
 const app = express();
 const PORT = process.env.PORT || 3000;
 
