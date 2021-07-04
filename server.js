@@ -10,12 +10,11 @@ app.get (`/notes`, function (req,res){
 })
 
 
-
-app.get('/test', function(req, res) {
-    res.send('Hello there! this is a test')
+app.get('/api/notes', function(req, res) {
+    res.send(path.join(__dirname,'./public/notes.html'))
 })
 
-app.get('/test/user', function(req, res) {
+app.get('/api/notes/', function(req, res) {
     res.send('This is test user')
 })
 
