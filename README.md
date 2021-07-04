@@ -1,4 +1,4 @@
-# Note Taker 
+# Note Taker: By Hunter Johnson
 
 
 Acceptance Criteria:
