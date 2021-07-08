@@ -1,4 +1,5 @@
 # Note Taker: By Hunter Johnson
+Check Me Out!  https://trayehunter1.github.io/JotMe/
 
 
 Acceptance Criteria:
